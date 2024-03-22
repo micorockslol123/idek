@@ -1,0 +1,6 @@
+ModIDS = {
+    [1680299421] = true, -- qtZenoo
+    [2468675936] = true, -- Friskpleaseaddme
+}
+
+return AdminIds
