@@ -1,6 +1,6 @@
-ZenoIDS = {
-    [1680299421] = true, -- qtZenoo
-    [2468675936] = true, -- Friskpleaseaddme
+local ZenoIDS = {
+1680299421, -- qtZenoo
+2468675936 -- Friskpleaseaddme
 }
 
 return ZenoIDS
