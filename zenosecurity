@@ -1,0 +1,8 @@
+local player = game.Players.LocalPlayer
+player.Changed:Connect(function(property)
+    if property == "UserId" or property == "DisplayName" then
+                    player:Kick("Zeno Security: Please Don't Modify Your Character Or Anything On It While Zeno's Hub Is Executed.")
+                    wait(5)
+                    while true do end
+    end
+end)
